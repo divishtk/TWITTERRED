@@ -19,6 +19,21 @@ from nltk.corpus import stopwords
 # set FLASK_ENV=development
 # flask run
 
+
+
+#for mac
+# virtualenv venv  
+#export FLASK_ENV=development
+#flask run  
+
+
+#To install all libraries
+#pip install -r requirements.txt
+
+
+#Git 
+#
+
 # twitter keys
 consumer_key = 'Ey08FlTmt72rChOt0hxg1f6Bu'
 consumer_secret = 'sP28Af1rsNTklG9XzghMp48MIFj1GygYjXkcSjTfoA7LRWm987'
